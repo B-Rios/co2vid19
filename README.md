@@ -6,11 +6,15 @@
 
 # Detalhes do projeto:
 
+### 8° lugar no voto popular, top 10 Engenharia Sanitária na FEBRACE
+
 > Fase atual
 
-[Video 2: Apresentação FEBRACE](https://youtu.be/Ed8jyDxn8iA)
+Finalizando as atividades do projeto
 
 > Fase transcorrida
+
+[Video 2: Apresentação FEBRACE](https://youtu.be/Ed8jyDxn8iA)
 
 [Vídeo 1: Feira CMS e Desafio Global do Conhecimento](https://youtu.be/CbPSIRxTuMs)
 
